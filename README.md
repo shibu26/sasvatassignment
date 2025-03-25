@@ -2,6 +2,7 @@
 
 scrapy crawl target_product -a url="https://www.target.com/p/hp-inc-essential-laptop-computer-17-3-hd-inter-core-8-gb-memory-256-gb-ssd/-/A-92469343#lnk=sametab" -o product.json
 
+OUTPUT file :- product.json
 
 Note**
 
